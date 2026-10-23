@@ -3,7 +3,9 @@
 
 VariablesOperadores variablesOperadores = new VariablesOperadores();
 EstructurasControl estructurasControl = new EstructurasControl();
-VariablesOperadores variablesOperadores1 = new VariablesOperadores();
+Ciclos ciclos = new Ciclos();
+Arreglos arreglos = new Arreglos();
+
 
 
 // variablesOperadores.ConversorDeLempiras();
@@ -42,3 +44,11 @@ VariablesOperadores variablesOperadores1 = new VariablesOperadores();
 // ciclos.ValidacionContrasena();
 // ciclos.PatronesConsola();
 // ciclos.CalculadoraMenu();
+// arreglos.RegistroNumeros();
+// arreglos.ArregloNombres();
+// arreglos.EstadisticasCalificaciones();
+// arreglos.FrecuenciaElementos();
+// arreglos.ArregloTemperaturas();
+// arreglos.BusquedaOrdenamiento();
+// arreglos.RotacionArreglo();
+// arreglos.HistogramaCalificaciones();
