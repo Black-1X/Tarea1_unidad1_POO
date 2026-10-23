@@ -4,7 +4,7 @@
 VariablesOperadores variablesOperadores = new VariablesOperadores();
 
 // variablesOperadores.ConversorDeLempiras();
-// variablesOperadores.CalculadoraIMC();
+// variablesOperadores.Calculadora();
 // variablesOperadores.Intercambio();
 // variablesOperadores.AreasPerimetros();
 // variablesOperadores.ConversionTemperatura();
@@ -13,3 +13,15 @@ VariablesOperadores variablesOperadores = new VariablesOperadores();
 // variablesOperadores.DesgloseBilletes();
 // variablesOperadores.SalarioSemanal();
 // variablesOperadores.PrestamoSimple();
+// estructurasControl.PositivoNegativo();
+// estructurasControl.MayorMenor();
+// estructurasControl.CalculadoraSwitch();
+// estructurasControl.DiaSemana();
+// estructurasControl.VocalConsonante();
+// estructurasControl.CalificacionesUNAH();
+// estructurasControl.Descuentos();
+// estructurasControl.Estacionamiento();
+// estructurasControl.ClasificacionTriangulos();
+// estructurasControl.AnioBisiesto();
+// estructurasControl.ValidadorFecha(); 
+// estructurasControl.CajeroAutomatico();
